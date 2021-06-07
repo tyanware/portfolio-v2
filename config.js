@@ -2,10 +2,10 @@ export default {
   about: {
     image:
       "https://avatars.githubusercontent.com/u/59417077?v=4",
-    name: "tyger",
-    job: "A professional idiot.",
+    name: "tyger796",
+    job: "プロのバカ。",
     description:
-      "Hello, I am tyger, a self-taught Developer learning JavaScript and Python. I am the owner of Nord Studios. We create web applications, games, and more!",
+      "Hello, I am tyger, a self-taught Web/IOT Developer learning JavaScript and Python. I am the owner of Nord Studios. We create web applications, Discord bots, and more!",
     socialLinks: [
       {
         name: "Github",
@@ -27,14 +27,14 @@ export default {
       },
       {
         name: "Instagram",
-        color: "white",
+        color: "purple",
         icon: "fab fa-instagram",
         to: "https://instagram.com/tyger796_",
       },
     ],
   },
   journey: {
-    experience: "A year of JavaScript, Python, HTML and CSS!",
+    experience: "A year of JavaScript and Python.",
     totalProjects: 4,
     work: "Student",
   },
@@ -67,7 +67,7 @@ export default {
     },
     {
       name: "Atlas",
-      description: "Atlas is an all in one Discord bot that allows you to create a server in minutes, play music, add security measures, moderation commands and economy.",
+      description: "Atlas is an all in one Discord bot that allows you to play music, add security measures, moderation commands and economy.",
       status: 2,
       to: "https://github.com/Nord-Studios/Atlas",
     },    

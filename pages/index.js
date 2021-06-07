@@ -1,5 +1,4 @@
 import React from 'react';
-
 import Portfolio from '../components/Portfolio';
 import PortfolioImage from '../components/PortfolioImage';
 import SocialMedia from '../components/SocialMedia';
@@ -7,7 +6,6 @@ import Journey from '../components/Journey';
 import Projects from '../components/Projects';
 import Skills from '../components/Skills';
 import Layout from '../components/Layout';
-
 import config from '../config';
 
 function Home() {

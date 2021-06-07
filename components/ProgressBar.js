@@ -33,8 +33,8 @@ const ProgressBar = ({background, completed, title}) => {
             background: linear-gradient(
               to right,
               #49505200,
-              #49505260 50%,
-              #495052 100%
+              #000000 50%,
+              #000000 100%
             );
             border-radius: 7px;
           }
@@ -49,7 +49,7 @@ const ProgressBar = ({background, completed, title}) => {
           .label {
             padding-right: 5px;
             font-size: 13px;
-            color: white;
+            color: black;
             font-weight: 500;
           }
         `}
