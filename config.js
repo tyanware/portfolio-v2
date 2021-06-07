@@ -34,7 +34,7 @@ export default {
     ],
   },
   journey: {
-    experience: "A year of JavaScript and Python.",
+    experience: "A year of JavaScript and Python",
     totalProjects: 4,
     work: "Student",
   },
