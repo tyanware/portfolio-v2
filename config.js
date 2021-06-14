@@ -66,10 +66,10 @@ export default {
       to: "https://github.com/Nord-Studios/Mimi",
     },
     {
-      name: "Atlas",
-      description: "Atlas is an all in one Discord bot that allows you to play music, add security measures, moderation commands and economy.",
-      status: 2,
-      to: "https://github.com/Nord-Studios/Atlas",
-    },    
+      name: "Blog",
+      description: "My blog made in Next.js, react and tailwindcss (〃▽〃)",
+      status: 3,
+      to: "blog.tyger796.com",
+    }
   ],
 };
