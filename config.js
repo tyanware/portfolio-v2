@@ -62,13 +62,13 @@ export default {
     {
       name: "Mimi",
       description: "An open source music Discord bot.",
-      status: 3,
+      status: 5,
       to: "https://github.com/Nord-Studios/Mimi",
     },
     {
       name: "Blog",
       description: "My blog made in Next.js, react and tailwindcss (〃▽〃)",
-      status: 3,
+      status: 1,
       to: "blog.tyger796.com",
     }
   ],
