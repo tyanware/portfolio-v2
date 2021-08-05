@@ -69,7 +69,7 @@ export default {
       name: "Blog",
       description: "My blog made in Next.js, react and tailwindcss (〃▽〃)",
       status: 1,
-      to: "blog.tyger796.com",
+      to: "https://blog.tyger796.com",
     }
   ],
 };
